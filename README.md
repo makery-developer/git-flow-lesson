@@ -2,14 +2,14 @@
 
 ブランチモデルgit-flowを体験してもらう課題
 
-課題用リポジトリ
-https://github.com/makery-developer/github-flow-lesson
+課題用リポジトリ  
+https://github.com/makery-developer/github-flow-lesson  
 こちらをフォークして自分のリポジトリに追加し、作業してください
 
-作業内容
+作業内容  
 ・index.htmlのコードを「修正内容.png」の指示に従って修正、納品
 
-ルール
+ルール  
 ・git-flowを用いてリポジトリ管理してください
 
 主な流れ
